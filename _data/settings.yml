@@ -1,0 +1,193 @@
+#-------------------------------
+# Site Settings
+title: C'mon! Magic
+logo: '/images/cmon.png'
+description: C'mon! Magic Pauper Series
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'News'
+      url: '/blog/'
+    - title: 'Past Events'
+      url: '/work/'
+    - title: 'About'
+      url: '/about/'
+#    - title: 'Pages'
+#      submenu:
+#      - url: '/contact/'
+#        title: 'Contact'
+#      - url: '/elements/'
+#        title: 'Elements'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: C'mon! Magic Pauper Series
+  author__bio: Community-driven tournaments in Poland. Come and play!
+  author__avatar: '/images/cmonavatar.jpg'
+
+social:
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@cmonmagic/"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/people/Common-Magic/100088629695308/"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: C'mon! Poznań
+  hero__description: 12th-13th April 2025<br /><br />Day 1<br />Pauper Classic IPT 1000am<br /><br />Day 2<br />Pauper Trio PTE 1000am<br /><br />Sklep Wilczek, Ul. Garbary 64, Poznań, Poland<br />
+  hero__image: "/images/cmonpoz25poster.jpg"
+
+
+#-------------------------------
+# Logos Settings
+logos:
+  enable: false
+  logos__title: I’ve worked with some great сompanies
+
+logo__items:
+  - name: Google
+    link: "https://www.google.com/"
+    image: "/images/google.svg"
+
+  - name: Spotify
+    link: "https://www.spotify.com/"
+    image: "/images/spotify.svg"
+
+  - name: Pinterest
+    link: "https://www.pinterest.com/"
+    image: "/images/pinterest.svg"
+
+  - name: Netlify
+    link: "https://www.netlify.com/"
+    image: "/images/netlify.svg"
+
+  - name: Apple
+    link: "https://www.apple.com/"
+    image: "/images/apple.svg"
+
+  - name: Adobe
+    link: "https://www.adobe.com/"
+    image: "/images/adobe.svg"
+
+#-------------------------------
+# Newsletter
+mailchimp:
+  enable: false
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__input__text: Your email address...
+  mailchimp__button__text: Subscribe
+
+
+#-------------------------------
+# Work Settings
+work:
+  enable: false
+  work__title: Past Events
+  work__description: All the events organized in the Series.
+
+
+#-------------------------------
+# Testimonials Section
+testimonials:
+  enable: true
+
+testimonial__title: Our Champions
+testimonial__description:
+
+testimonial__items:
+  - name: "Karol Guzy"
+    image: "/images/pr0b2024.jpg"
+    designation: "C'mon! Katowice 2024"
+    link: "https://melee.gg/Decklist/View/432362"
+    content : "Grixis Affinity, September 2024"
+    
+  - name: "Aleksander Morgała"
+    image: "/images/burek2024.jpg"
+    designation: "C'mon! Poznań 2024"
+    link: "https://melee.gg/Decklist/View/375723"
+    content : "Walls Cascade, March 2024"
+
+  - name: "Karol Guzy"
+    image: "/images/pr0b2023.jpg"
+    designation: "C'mon! Katowice 2023"
+    link: "https://melee.gg/Decklist/View/324157"
+    content : "Azorius Glitters, September 2023"
+
+  - name: "Karol Chmielewski"
+    image: "/images/chmielu2023.jpg"
+    designation: "C'mon! Warszawa 2023"
+    link: "https://melee.gg/Decklist/View/308897"
+    content : "Mono Red Burn, July 2023"
+
+  - name: "Kuba Tambor"
+    image: "/images/qetta2023.jpg"
+    designation: "C'mon! Kraków 2023"
+    link: "https://melee.gg/Decklist/View/295643"
+    content : "Grixis Affinity, May 2023"
+
+  - name: "Radosław Marszelewski"
+    image: "/images/bombaj2023.jpg"
+    designation: "C'mon! Poznań 2023"
+    content : "Dimir Terror, January 2023"
+
+  - name: "Mirco Ciavatta"
+    image: "/images/mirco2022.jpg"
+    designation: "Pauper@Spodek 2022"
+    content : "Azorius Caw-Gates, September 2022"
+    
+  - name: "Łukasz Kowalewski"
+    image: "/images/tapczan2021.jpg"
+    designation: "Pauper@Spodek 2021"
+    content : "Dimir Faeries, September 2021"
+
+  - name: "Tomasz Myśliwiec"
+    image: "/images/bblurred2020.jpg"
+    designation: "Pauper@Spodek 2020"
+    content : "Esper Familiars, February 2020"
+    
+#-------------------------------
+# Blog Section
+blog:
+  enable: true
+
+blog__settings:
+  blog__title: News
+  blog__description:
+
+
+#-------------------------------
+# Footer Settings
+footer__background__image: "/images/bg.jpg"
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your form_id
+  description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
