@@ -107,6 +107,12 @@ testimonial__title: Our Champions
 testimonial__description:
 
 testimonial__items:
+  - name: "Artur 'Ajmer'"
+    image: "/images/ajme2025.png"
+    designation: "C'mon! Poznań 2025"
+    link: "https://melee.gg/Decklist/View/558b5c0e-e8fc-4286-8c00-b2bc016b7b61"
+    content : "Mono-U Terror, April 2025"
+    
   - name: "Karol Guzy"
     image: "/images/pr0b2024.jpg"
     designation: "C'mon! Katowice 2024"
