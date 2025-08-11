@@ -46,7 +46,7 @@ social:
 hero:
   enable: true
   hero__title: C'mon! Katowice
-  hero__description: 13th-14th September 2025<br /><br />Day 1<br />Pauper Classic IPT 0930am<br /><br />Day 2<br />Pauper Trio PTE 0930am<br /><br />Spodek, Al. Korfantego 35, Katowice, Poland<br />
+  hero__description: 13th-14th September 2025<br /><br />Day 1<br />Pauper Classic IPT 1000am<br /><br />Day 2<br />Pauper Trio PTE 0930am<br /><br />Spodek, Al. Korfantego 35, Katowice, Poland<br />
   hero__image: "/images/kato2025tempposter.png"
 
 
