@@ -65,4 +65,4 @@ This tournament is going to be live streamed at <a href="https://www.youtube.com
 
 You may be asked to participate in a feature match.
 
-Are you on Facebook? You can view an <a href="https://www.facebook.com/events/1603624773597682" target="_blank">event page</a> there.
+Are you on Facebook? You can view an <a href="https://www.facebook.com/events/1023430249370518" target="_blank">event page</a> there.
