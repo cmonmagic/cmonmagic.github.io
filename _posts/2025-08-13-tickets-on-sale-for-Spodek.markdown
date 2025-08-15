@@ -59,8 +59,6 @@ Please be remined that the complete registration process includes: filling out t
   </table>
 </div>
 
-Ticket prices update automatically in the system based on the timezone set to CEST.
-
 ### Live Stream
 
 This tournament is going to be live streamed at <a href="https://www.youtube.com/@cmonmagic/" target="_blank">https://www.youtube.com/@cmonmagic/</a>.
