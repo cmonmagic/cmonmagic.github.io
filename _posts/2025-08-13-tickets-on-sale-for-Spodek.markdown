@@ -50,7 +50,16 @@ Please be remined that the complete registration process includes: filling out t
 
 #### Ticket prices schedule
 
-TBD
+<div class="table-container">
+  <table>
+    <tr><th>Ticket type</th><th><p>Regular</p><p>until 9/5</p></th><th><p>Last Minute</p><p>starting from 9/6</p></th></tr>
+    <tr><td>Pauper Classic Super IPT Main Event (Saturday)</td><td>140,- PLN</td><td>150,- PLN</td></tr>
+    <tr><td>Pauper Unified Trio PTE (Sunday)<br />*price per player</td><td>100,- PLN</td><td>110,- PLN</td></tr>
+    <tr><td>Combo: Main + Trio (all weekend)<br />*price per player</td><td>225,- PLN</td><td>240,- PLN</td></tr>
+  </table>
+</div>
+
+Ticket prices update automatically in the system based on the timezone set to CEST.
 
 ### Live Stream
 
