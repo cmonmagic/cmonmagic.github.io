@@ -12,7 +12,7 @@ Here's a short summary of (hopefully) all of the practical information you might
 
 ### Before the tournament
 
-- Please make sure that you went through the [registration process](https://cmonmagic.pl/blog/tickets-on-sale-for-spodek) for Saturday Main event, Sunday Trio, or both (no pre-registration is required for any of the side-events). At the end of a successful registration, you should be able to log into your [Melee](https://melee.gg/) account (previously existing, or a new one, created at the email address pointed in the form), and see yourself enrolled in the tournament(s). If you don't, please contact us immediately at: support@cmonmagic.pl
+- Please make sure that you went through the [registration process](https://cmonmagic.pl/blog/tickets-on-sale-for-spodek) for Saturday Main event, Sunday Trio, or both (no pre-registration is required for any of the side-events). At the end of a successful registration, you should be able to log into your [Melee](https://melee.gg/) account (previously existing, or a new one, created at the email address pointed in the form), and see yourself enrolled in the tournament(s). If you don't, please contact us immediately at: [support@cmonmagic.pl](mailto:support@cmonmagic.pl)
 - Once you log into Melee, please upload the decklist for each of the up to two major events. Please, - if possible - do that before the event, to make sure we avoid unnecessary delays on the day of the tournament. Paper decklists are neither required or accepted.
 
 ### Coming into the venue
