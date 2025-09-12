@@ -30,7 +30,7 @@ C'mon Katowice takes place in a Conference Center next to the "Spodek" hall, in 
 
 #### When:
 
-We do gather at the main entrance to the building (https://maps.app.goo.gl/UbLy4gsmokPvvMiMA) at **9:00 AM on Saturday**. Please make sure you're there on time. Please do NOT stand in the queue to the main event (participants of the tournament can enter the building early), but rather look for a group of fellow pauperians standing near the main entry.
+We do gather at the main [entrance to the building](https://maps.app.goo.gl/UbLy4gsmokPvvMiMA) at **9:00 AM on Saturday**. Please make sure you're there on time. Please do NOT stand in the queue to the main event (participants of the tournament can enter the building early), but rather look for a group of fellow pauperians standing near the main entry.
 
 <img src="/images/cmonkato2025entrance.png" />
 
