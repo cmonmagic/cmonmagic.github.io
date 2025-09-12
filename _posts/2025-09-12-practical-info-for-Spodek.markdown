@@ -17,7 +17,7 @@ Here's a short summary of (hopefully) all of the practical information you might
 
 ### Coming into the venue
 
-- Venue is located in the northern part of the city center, and thus is very well communicated. We can highly recommend getting there by a public transport (just aim at "Spodek", e.g. in https://jakdojade.pl/katowice), especially that in parallel to the board games convention (these tournaments are part of), there are additional city [anniversary events](https://miasto-ogrodow.eu/strona/kochamkatowice_2025) planned for the weekend.
+- Venue is located in the northern part of the city center, and thus is very well communicated. We can highly recommend getting there by a public transport (just aim at "Spodek", e.g. in [jakdojade](https://jakdojade.pl/katowice)), especially that in parallel to the board games convention (these tournaments are part of), there are additional city [anniversary events](https://miasto-ogrodow.eu/strona/kochamkatowice_2025) planned for the weekend.
 - Should you decide to drive to the event by car, please be aware that on Saturday, parking on some of the area around the venue (blue area on the map below) requires paying [city fees](https://parkowanie.katowice.eu/oplaty-i-kontrole). On Sunday street/public parking is free throughout the city. We could recommend looking for a parking spot west of the venue (pink-ish area on the map) first, and - would that be impossible - going further west to the parking of "Silesia City Center" mall, and coming to the venue by tram.
 
 <img src="/images/cmonkato2025map.png" />
