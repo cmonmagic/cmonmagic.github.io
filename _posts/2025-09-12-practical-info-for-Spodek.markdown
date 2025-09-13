@@ -8,7 +8,7 @@ image_caption:
 tags: [news]
 ---
 
-Here's a short summary of (hopefully) all of the practical information you might want / need to attend the C'mon! Katowice 2025:
+Here's a short summary of (hopefully) all of the practical information you might want/need to attend the C'mon! Katowice 2025:
 
 ### Before the tournament
 
@@ -36,7 +36,7 @@ We do gather at the main [entrance to the building](https://maps.app.goo.gl/UbLy
 
 #### What to take with you:
 
-Bands are going to all the preregistered participants by name. Just in case, you can take your ID with you, but no paper / electronic ticket is required to get the band. Once you get the band, you can enter/leave the building at will.
+Bands are going to all the preregistered participants by name. Just in case, you can take your ID with you, but no paper or electronic ticket is required to get the band. Once you get the band, you can enter/leave the building at will.
 
 ### Afterparty
 
@@ -51,9 +51,9 @@ Bands are going to all the preregistered participants by name. Just in case, you
 - ~17:30 - pre-after party (screening tournament stream + snacks) starts
 - 19:00 - official start of the after party
 
-### Timeline - Sunday
-- 9:00 - 9:15 - first entrance to the building
-- 9:01 - 9:30 - team registration at the judge booth
-- 9:45 - start of the 1st round
+### Timeline - Sunday (UPDATE)
+- 9:30 - 9:45 - first entrance to the building
+- 9:31 - 10:00 - team registration at the judge booth
+- 10:15 - start of the 1st round
 
 NOTE: on players' request, we're aiming at starting the Trio a bit ahead of the original schedule (originally planned for 10:00). Teams have to be fully registered in melee, and at least their capitain present on site at the start time
