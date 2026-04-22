@@ -107,6 +107,12 @@ testimonial__title: Our Champions
 testimonial__description:
 
 testimonial__items:
+  - name: "Marcin 'Slay' Pająk"
+    image: "/images/slay2025.jpg"
+    designation: "C'mon! Katowice 2025"
+    link: "https://melee.gg/Decklist/View/b3cdc582-471c-4779-adfb-b35600bd7c20"
+    content : "Mono-U Terror, September 2025"
+
   - name: "Artur 'Ajmer' Michalak"
     image: "/images/ajme2025.png"
     designation: "C'mon! Poznań 2025"
