@@ -59,11 +59,11 @@ logos:
 logo__items:
   - name: Najada Games
     link: "https://najada.games/"
-    image: "/images/partner_najada.png"
+    image: "/images/partner_najada.svg"
 
   - name: Redraft
-    link: "https://www.redraft.pl/"
-    image: "/images/redraft.png"
+    link: "https://redraft.pl/"
+    image: "/images/partner_redraft.svg"
 
 
 #-------------------------------
