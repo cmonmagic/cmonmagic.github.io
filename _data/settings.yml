@@ -53,33 +53,18 @@ hero:
 #-------------------------------
 # Logos Settings
 logos:
-  enable: false
-  logos__title: I’ve worked with some great сompanies
+  enable: true
+  logos__title: Our Partners
 
 logo__items:
-  - name: Google
-    link: "https://www.google.com/"
-    image: "/images/google.svg"
+  - name: Najada Games
+    link: "https://najada.games/"
+    image: "/images/partner_najada.png"
 
-  - name: Spotify
-    link: "https://www.spotify.com/"
-    image: "/images/spotify.svg"
+  - name: Redraft
+    link: "https://www.redraft.pl/"
+    image: "/images/redraft.png"
 
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
-
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
-
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
-
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
 
 #-------------------------------
 # Newsletter
