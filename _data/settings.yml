@@ -53,7 +53,7 @@ hero:
 #-------------------------------
 # Logos Settings
 logos:
-  enable: true
+  enable: false
   logos__title: Our Partners
 
 logo__items:
