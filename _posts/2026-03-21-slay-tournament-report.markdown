@@ -8,6 +8,8 @@ image_caption:
 tags: [news,reports]
 ---
 
+## Tournament Report
+
 ### Preparations
 
 I remembered about this event a few days before. I'd played two FNMs in August after a few months' break and returning from vacation. I was eager to play, but I can't play a big event without any preparation. I once dropped in for an evening testing at Roman's - cheers, let's make the September barbecue and playing cards a tradition. I saw some strange decks on 5 lands and decided I had a lot of catching up to do. I don't like playing bigger events unprepared, but as my wife said on the day before the event - you have two kids, you'll never be prepared again ;) 
@@ -68,7 +70,7 @@ After this match there was a lot of tiebreakers counting with the hope of a draw
 
 ### R7 vs Mono Red Rally
 
-I won the first game, and I remember my opponent complaining loudly about his own mistakes. After the first game, we were called to the feature table where you can watch the remaining games: https://www.youtube.com/watch?v=fWfRNRJVNfg.
+I won the first game, and I remember my opponent complaining loudly about his own mistakes. After the first game, we were called to the feature table.
 In the second game, I think I drew all my blasts, but the snakes remained at the previous table, which wasn't enough to lock the table against Red Rally.
 The third game was quite similar to the second, with the difference that there was at least one snake that was stalling the opponent's combat phase for a long time. My health slowly dwindled, and it would have ended similarly to the second game if the snakes hadn't started arriving.
 
@@ -78,7 +80,7 @@ A very close match, I managed to win and move into the top 8 from second place.
 
 I'm staying on the feature table, my opponent in the quarterfinals is the last winner of the Poznań edition, so you could say the current champion.
 As befits a champion, he's playing the right deck, so here's the second mirror today.
-You can watch the entire match on the stream, which I encourage you to do: https://www.youtube.com/watch?v=sY_tVo7e0hA&list=LL&index=13
+You can watch the entire match on the stream, which I encourage you to do (video embedded below)
 I won't spoil it, but shout out to those who already know that this report doesn't end with the quarterfinals ;)
 
 ### Top4 vs Mirror
@@ -96,8 +98,7 @@ I had to wait a long time for the results of another semi-final where two local 
 The final with another Mateusz, who stormed through the event, sipping gummy berry juice and successfully bypassing all the drug tests :D
 The entire final is on stream. Let me just say that the first game would have lasted longer if not for Mateusz's mistake of using a non-lethal attack, which killed him in my attack.
 The next game would have also lasted longer if not for my mistake of setting blocks to survive and win the next turn. Clever, I just forgot that the Avenging Hunter has a trample.
-The third game is spoiler-free, enjoy: https://www.youtube.com/watch?v=sY_tVo7e0hA&list=LL&index=13
-There are interviews between matches, and there's also an interview after the final match.
+The third game settled the tournament and my entire day at C'mon! Katowice 2025 8D
 
 ### Summary
 
