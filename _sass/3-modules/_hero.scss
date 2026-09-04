@@ -152,7 +152,7 @@
   position: relative;
   transform: translate(0);
   width: 100%;
-  aspect-ratio: 1/1.2;
+  aspect-ratio: 1/1; //było 1.2
   border-radius: $global-radius;
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
