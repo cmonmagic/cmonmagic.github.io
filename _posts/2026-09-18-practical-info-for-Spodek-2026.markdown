@@ -31,7 +31,7 @@ Here's a practical guide to attending the C'mon! Katowice 2026:
 C'mon Katowice takes place in a Conference Center next to the "Spodek" hall, in collaboration with the "Planszówki w Spodku" board games convention (ticket to any of the C'mon! main events allows also to enter the convention on that day!). Look for the part of the [main entrance to the building](https://maps.app.goo.gl/UbLy4gsmokPvvMiMA) marked "Turniej MTG".
 Please <u>do NOT stand in the queue to the board game event</u> (participants of the tournament can enter the building early), but rather look for a group of fellow pauperians standing near the main entry
 
-<img src="/images/cmonkato2026entrance.png" />
+<img src="/images/cmonkato2026entrance.jpg" />
 
 Once in the building, go to the tournaments zone and you're all set
 
