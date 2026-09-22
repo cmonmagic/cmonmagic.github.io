@@ -92,6 +92,12 @@ testimonial__title: Our Champions
 testimonial__description:
 
 testimonial__items:
+  - name: "Jakub 'Qbek' Puzio"
+    image: "/images/qbek2026.jpeg"
+    designation: "C'mon! Katowice 2026"
+    link: "https://melee.gg/Decklist/View/ff03746e-e30f-4e52-b6ab-b4c900bf460b"
+    content : "Altar Tron, September 2026"
+
   - name: "Marcin 'Slay' Pająk"
     image: "/images/slay2025.jpg"
     designation: "C'mon! Katowice 2025"
