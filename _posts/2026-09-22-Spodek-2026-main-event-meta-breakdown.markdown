@@ -22,13 +22,18 @@ Before we get into the metagame itself, a word on deck categories:
 
 We've made an attempt to group various archetypes played in the format by the similar role they play in the metagame. And while these categories may overlap (for example, most “Skyfisher decks” will also make use of Lightning Bolt, even though a separate "Bolt decks" category exists) we find this classification helpful as an initial way of surveying and understanding the overall field.
 
-This is very much work-in-progress, so if you'd like to learn what these categories mean to us, or you have other ideas how these categories could look like - we're open for discussion on <a src="https://discord.gg/bcEaKq2Da">Polish Pauper Discord</a>.
+This is very much work-in-progress, so if you'd like to learn what these categories mean to us, or you have other ideas how these categories could look like - we're open for discussion on <a href="https://discord.gg/bcEaKq2Da">Polish Pauper Discord</a>.
 
 #### Metagame share
 
 With that in mind, here's the bird's eye view on what decks have been registered for the tournament:
 
-<img src="/images/spodek2026metagame.png" />
+<iframe
+  src="{{ '/assets/charts/sunburst.html' | relative_url }}"
+  title="C'mon! Katowice 2026 metagame share"
+  loading="lazy"
+  scrolling="no"
+  style="width:100%; max-width:900px; aspect-ratio:1/1; border:none; display:block; margin:0 auto;"></iframe>
 
 A brief examination of that chart reveals that:
 - Little did change in popularity of Red ("Bolt") strategies: with Mono-Red Madness being the most played single archetype at nearly 10% of all decks, and other decks of the same category making over 21% of the meta. Blue blasts and appropriate suite of creature removal are likely to stay in their sideboard slots in the new metagame,
@@ -37,7 +42,7 @@ A brief examination of that chart reveals that:
 - The "Terror" decks might have lost a bit of the popularity (likely caused by the unknown impact of Dispatch and Baleful Strix to the decks), yet Mono-Blue Terror was the third most popular single archetype that day,
 - Various "Combo" decks were also present, with Spy being the most represented decks of that category.
 
-If you're interested in the details, you can find all the decklists <a src="https://mtgdecks.net/Pauper/c-mon-katowice-c-mon-magic-tournament-270539">here</a>
+If you're interested in the details, you can find all the decklists <a href="https://mtgdecks.net/Pauper/c-mon-katowice-c-mon-magic-tournament-270539">here</a>
 
 
 ### Most played cards
