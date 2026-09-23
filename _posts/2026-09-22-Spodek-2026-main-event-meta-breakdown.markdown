@@ -8,6 +8,10 @@ image_caption: Katowice 2026 Metagame
 tags: [news]
 ---
 
+<style>
+.card-img { display: block; width: 50%; height: auto; margin: 1em auto; }
+</style>
+
 A day full of emotions, over 150 players, the biggest C’mon! ever (and the biggest Pauper event in Poland so far), and at the end: a single champion! 2026-09-19 was a special day for Pauper format enthusiasts. Let’s dive together in some numbers to see what metagame looked like during that tournament.
 
 This time we've had an opportunity to sail into uncharted territory, as the PFP's decision from early September - to make commons from the „Zeta Set” format legal - brought several potentially impactful cards to the mix.
@@ -105,7 +109,7 @@ On top of that, usually, we see here the most used sideboard cards, shared acros
 
 The most popular card turned out to be the all-time classic: Lightning Bolt. 
 
-<img src="/images/card_lightning_bolt.webp" />
+<img class="card-img" src="/images/card_lightning_bolt.webp" />
 
 Top 10 looks like a battle between blue and red colours, unsurprisingly in a metagame where nearly every 3rd deck is either mono-red or mono-blue. We have to actually look down to as low as 14th place, to see a card that could <u>not</u> be played in a mono-red or mono-blue deck.
 If we would look at the number of deck occurrences the crown would go to the Relic of Progenitus, which - despite the recent addition of Soul-Guide Lantern, is still the gravehate piece of choice in the format.
@@ -117,28 +121,28 @@ We can also see Zeta newcomers on positions: 16, 35 and 47 (and more on that lat
 You could already see Dispatch on 16th place of the most popular cards (and some others a bit lower) and we've already seen its impact on the wider metagame (both in "Bridges" decks and "Skyfisher" decks)
 What else?
 
-<img src="/images/card_dispatch.webp" />
+<img class="card-img" src="/images/card_dispatch.webp" />
 
 Baleful Strix found new home not only in Esper Affinity but also in Dimir Controls, Faeries and Terrors. 
 
-<img src="/images/card_baleful_strix.webp" />
+<img class="card-img" src="/images/card_baleful_strix.webp" />
 
 Soul-Guide Lantern was utilised by decks with Glint Hawk and Kor Skyfisher – bounce effect is a good synergy here, but also it was found in a single Mono Red Madness, Mono Blue Terror and Mono Blue Faries.
 
-<img src="/images/card_soul_guide_lantern.webp" />
+<img class="card-img" src="/images/card_soul_guide_lantern.webp" />
 
 Vandalblast was crowds’ favourite and was used across the whole meta – in Trons, Gates, Affinities and Burn (Rakdos one, no Mono Red was brave enough to utilize that).
 
-<img src="/images/card_vandalblast.webp" />
+<img class="card-img" src="/images/card_vandalblast.webp" />
 
 Cut Down was mostly an addition to control decks (Dimir Control/Faeries) but also the Esper Affinity.
 
-<img src="/images/card_cut_down.webp" />
+<img class="card-img" src="/images/card_cut_down.webp" />
 
-An Offer You Can’t Refuse was solely tested as sideboard card in Esper Affinity.
+An Offer You Can’t Refuse was solely tested in Esper Affinity.
 
-<img src="/images/card_an_offer_you_cant_refuse.webp" />
+<img class="card-img" src="/images/card_an_offer_you_cant_refuse.webp" />
 
 And last but not the least – Gigantosaurus – two brave brewers put that one in Gruul Ramps.
 
-<img src="/images/card_gigantosaurus.webp" />
+<img class="card-img" src="/images/card_gigantosaurus.webp" />
