@@ -37,7 +37,7 @@ With that in mind, here's the bird's eye view on what decks have been registered
   title="C'mon! Katowice 2026 metagame share"
   loading="lazy"
   scrolling="no"
-  style="width:100%; max-width:900px; aspect-ratio:1/1; border:none; display:block; margin:0 0 20px 0 auto;"></iframe>  
+  style="width:100%; max-width:900px; aspect-ratio:1/1; border:none; display:block; margin:0 auto 25px;"></iframe>  
 
 A brief examination of that chart reveals that:
 - Little did change in popularity of Red ("Bolt") strategies: with Mono-Red Madness being the most played single archetype at nearly 10% of all decks, and other decks of the same category making over 21% of the meta. Blue blasts and appropriate suite of creature removal are likely to stay in their sideboard slots in the new metagame,
