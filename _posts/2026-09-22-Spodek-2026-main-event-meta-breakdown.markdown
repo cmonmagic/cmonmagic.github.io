@@ -149,6 +149,12 @@ And last but not the least – Gigantosaurus – two brave brewers put that one 
     <img src="/images/card_cut_down.webp" loading="lazy">
     <img src="/images/card_an_offer_you_cant_refuse.webp" loading="lazy">
   </div>
+</div>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/card_gigantosaurus.webp" loading="lazy">
+  </div>
+</div>
 
   <br><br>
 ### Match Win Rate Matrix
@@ -268,9 +274,4 @@ And last but not the least – Gigantosaurus – two brave brewers put that one 
 </table>
 </div>
 <!-- TABELA-END -->
-</div>
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/card_gigantosaurus.webp" loading="lazy">
-  </div>
-</div>
+
