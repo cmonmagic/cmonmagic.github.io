@@ -37,7 +37,7 @@ With that in mind, here's the bird's eye view on what decks have been registered
   title="C'mon! Katowice 2026 metagame share"
   loading="lazy"
   scrolling="no"
-  style="width:100%; max-width:900px; aspect-ratio:1/1; border:none; display:block; margin:0 auto;"></iframe>
+  style="width:100%; max-width:900px; aspect-ratio:1/1; border:none; display:block; margin:0 auto;"></iframe>  
 
 A brief examination of that chart reveals that:
 - Little did change in popularity of Red ("Bolt") strategies: with Mono-Red Madness being the most played single archetype at nearly 10% of all decks, and other decks of the same category making over 21% of the meta. Blue blasts and appropriate suite of creature removal are likely to stay in their sideboard slots in the new metagame,
@@ -47,7 +47,6 @@ A brief examination of that chart reveals that:
 - Various "Combo" decks were also present, with Spy being the most represented decks of that category.
 
 If you're interested in the details, you can find all the decklists <a href="https://mtgdecks.net/Pauper/c-mon-katowice-c-mon-magic-tournament-270539">here</a>
-
 
 ### Most played cards
 
@@ -109,7 +108,11 @@ On top of that, usually, we see here the most used sideboard cards, shared acros
 
 The most popular card turned out to be the all-time classic: Lightning Bolt. 
 
-<img class="card-img" src="/images/card_lightning_bolt.webp" />
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/card_lightning_bolt.webp" loading="lazy">
+  </div>
+</div>
 
 Top 10 looks like a battle between blue and red colours, unsurprisingly in a metagame where nearly every 3rd deck is either mono-red or mono-blue. We have to actually look down to as low as 14th place, to see a card that could <u>not</u> be played in a mono-red or mono-blue deck.
 If we would look at the number of deck occurrences the crown would go to the Relic of Progenitus, which - despite the recent addition of Soul-Guide Lantern, is still the gravehate piece of choice in the format.
@@ -118,31 +121,37 @@ We can also see Zeta newcomers on positions: 16, 35 and 47 (and more on that lat
 ### Bonus - Zeta Impact
 
 58 players have decided to use at least one of the cards just added to the format (this is around 38% of all decks), despite very little time for testing, and potential problems with acquiring the cards in paper.
-You could already see Dispatch on 16th place of the most popular cards (and some others a bit lower) and we've already seen its impact on the wider metagame (both in "Bridges" decks and "Skyfisher" decks)
-What else?
 
-<img class="card-img" src="/images/card_dispatch.webp" />
-
+You could already see Dispatch on 16th place of the most popular cards (and some others a bit lower) and we've already seen its impact on the wider metagame (both in "Bridges" decks and "Skyfisher" decks) What else?
 Baleful Strix found new home not only in Esper Affinity but also in Dimir Controls, Faeries and Terrors. 
 
-<img class="card-img" src="/images/card_baleful_strix.webp" />
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/card_dispatch.webp" loading="lazy">
+    <img src="/images/card_baleful_strix.webp" loading="lazy">
+  </div>
+</div>
 
 Soul-Guide Lantern was utilised by decks with Glint Hawk and Kor Skyfisher – bounce effect is a good synergy here, but also it was found in a single Mono Red Madness, Mono Blue Terror and Mono Blue Faries.
-
-<img class="card-img" src="/images/card_soul_guide_lantern.webp" />
-
 Vandalblast was crowds’ favourite and was used across the whole meta – in Trons, Gates, Affinities and Burn (Rakdos one, no Mono Red was brave enough to utilize that).
-
-<img class="card-img" src="/images/card_vandalblast.webp" />
-
 Cut Down was mostly an addition to control decks (Dimir Control/Faeries) but also the Esper Affinity.
-
-<img class="card-img" src="/images/card_cut_down.webp" />
-
 An Offer You Can’t Refuse was solely tested in Esper Affinity.
-
-<img class="card-img" src="/images/card_an_offer_you_cant_refuse.webp" />
-
 And last but not the least – Gigantosaurus – two brave brewers put that one in Gruul Ramps.
 
-<img class="card-img" src="/images/card_gigantosaurus.webp" />
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/card_soul_guide_lantern.webp" loading="lazy">
+    <img src="/images/card_vandalblast.webp" loading="lazy">
+  </div>
+</div>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/card_cut_down.webp" loading="lazy">
+    <img src="/images/card_an_offer_you_cant_refuse.webp" loading="lazy">
+  </div>
+</div>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/card_gigantosaurus.webp" loading="lazy">
+  </div>
+</div>
